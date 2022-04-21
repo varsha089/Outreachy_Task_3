@@ -1,0 +1,29 @@
+Name: Plasma physics and radiation hydrodynamics in developing an extreme ultraviolet light source for lithography
+author:Noriaki Miyanaga
+given name is not present 
+family name is not present
+author:Atsushi Sunahara
+given name: Atsushi
+family name is not present
+author:Shinsuke Fujioka
+given name is not present 
+family name is not present
+author name string: Katsunobu Nishihara
+author name string: Akira Sasaki
+author name string: Masanori Nunami
+author name string: Hajime Tanuma
+author name string: Yoshinori Shimada
+author name string: Kazumi Fujima
+author name string: Hiroyuki Furukawa
+author name string: Takako Kato
+author name string: Fumihiro Koike
+author name string: Richard More
+author name string: Masakatsu Murakami
+author name string: Takeshi Nishikawa
+author name string: Vasilii Zhakhovskii
+author name string: Kouhei Gamata
+author name string: Akira Takata
+author name string: Hirofumi Ueda
+author name string: Hiroaki Nishimura
+author name string: Yasukazu Izawa
+author name string: Kunoki Mima
