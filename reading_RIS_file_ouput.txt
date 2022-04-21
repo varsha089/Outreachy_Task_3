@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Nishihara, Katsunobu
+AU  - Sunahara, Atsushi
+AU  - Sasaki, Akira
+AU  - Nunami, Masanori
+AU  - Tanuma, Hajime
+AU  - Fujioka, Shinsuke
+AU  - Shimada, Yoshinori
+AU  - Fujima, Kazumi
+AU  - Furukawa, Hiroyuki
+AU  - Kato, Takako
+AU  - Koike, Fumihiro
+AU  - More, Richard
+PY  - 2008/05/01
+SP  - 
+T1  - Plasma physics and radiation hydrodynamics in developing an extreme ultraviolet light source for lithography
+VL  - 15
+DO  - 10.1063/1.2907154
+JO  - Physics of Plasmas - PHYS PLASMAS
+ER  - 
+['Nishihara, Katsunobu', 'Sunahara, Atsushi', 'Sasaki, Akira', 'Nunami, Masanori', 'Tanuma, Hajime', 'Fujioka, Shinsuke', 'Shimada, Yoshinori', 'Fujima, Kazumi', 'Furukawa, Hiroyuki', 'Kato, Takako', 'Koike, Fumihiro', 'More, Richard']
